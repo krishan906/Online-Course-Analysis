@@ -1,3 +1,4 @@
+📊 Online Course Analysis
 🔍 Project Overview
 This Power BI project analyzes an online course dataset to uncover insights such as student performance, engagement, completion rates, and revenue trends.
 
@@ -44,3 +45,4 @@ Integrating real-time data updates
 
 👨‍💻 Author
 Krishan Kant
+
